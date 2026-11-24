@@ -37,7 +37,7 @@ All pages have a year slicer.
 2. Created calculated columns that group shipments into tiers:
    - Supplier reliability: Low (< 0.5), Medium (0.5 to 0.8), High (> 0.8)
    - Dock efficiency: Slow (> 3 hrs), Moderate (1 to 3 hrs), Fast (< 1 hr)
-   - Customs clearance: Slow (> 5 days), Moderate (2 to 5 days), Fast (< 2 days)
+   - Customs clearance: Slow (< 3 days), Moderate (1 to 3 days), Fast (< 1 days)
 3. Wrote DAX measures for shipment count, average lead time, fulfilment rate, loading/unloading time and inventory level.
 4. Compared average lead time, fulfilment and delay probability across each tier.
 
