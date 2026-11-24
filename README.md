@@ -2,7 +2,7 @@
 
 A 3-page Power BI dashboard that tests whether supplier reliability, dock efficiency, customs clearance time and risk classification explain shipment delays.
 
-![Executive Summary](screenshots/supply-chain-summary.png)
+![Executive Summary](supply_chain_summary.png)
 
 ## Business question
 
@@ -52,7 +52,7 @@ supply-chain-performance-dashboard/
 
 ## How to open
 
-Download `Supply_Chain_Performance.pbix` and open it in Power BI Desktop (free for Windows).
+Download `Supply Chain Performance.pbix` and open it in Power BI Desktop (free for Windows).
 
 ## Skills demonstrated
 
